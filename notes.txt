@@ -1,0 +1,32 @@
+CUSTOM HOOKS
+--there are lot of inbuilt hooks like useEffect,useMemo etc which are predefined
+--we can make our own react hooks which can be reused again and again in react
+--hooks are like the regullar js functions
+
+identifying  HOOKS
+--uses the "use" keyword as a prefix
+--regular js functions
+--problem is making any UI useable but making a logic reuseable is not hectic
+--we can make some peice of logic reuseable
+--mmain idea is to maintain the concept of dry
+
+
+react follows the DRY concept 
+where dry means --Don't repeat Yourself
+eg:increment button and like button has similar logic but different 
+--dry means not copying but to write the logic ones and then create a function and then call it 
+
+
+list:
+push:to add value to the list
+pull(index):to pull value from the list
+
+
+
+
+
+
+
+
+LAZY LOADING
+ERROR BOUNDARY
